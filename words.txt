@@ -1,0 +1,2 @@
+This is	a	line	with	tabs
+This is a normal line
